@@ -1,1 +1,1 @@
-My shell work
+Display current directory contents
